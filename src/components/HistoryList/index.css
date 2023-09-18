@@ -1,0 +1,48 @@
+.list-con {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+}
+
+.list-inner-con {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.time-accessed {
+  font-size: 10px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.app-logo-domain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.domain-logo {
+  width: 20px;
+  height: 20px;
+}
+
+.domain-text {
+  font-size: 10px;
+  font-weight: 100;
+  font-family: 'Roboto';
+}
+
+.but-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete-con {
+  width: 20px;
+  height: 20px;
+}
